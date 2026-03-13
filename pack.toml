@@ -1,0 +1,13 @@
+name = "Curseforge Cobbleverse"
+author = "cameron"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "936c96049a5fd9b50badc0cfb859dc2b09ebf07b334a78216f7229cee65ef85e"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
