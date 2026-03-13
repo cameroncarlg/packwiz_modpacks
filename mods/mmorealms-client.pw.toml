@@ -1,0 +1,13 @@
+name = "MMORealms Enhanced"
+filename = "client-backend-fabric-1.0.38.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48cf56be60e68a426377b6799cdd4caab9c92915"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7258686
+project-id = 1264486

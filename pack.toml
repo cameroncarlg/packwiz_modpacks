@@ -1,0 +1,12 @@
+name = "Cobblemon Realms MMO"
+version = "1.7.3g"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d0aa5215a36c5d3e871b92ca2eb2b1acefd83776917000fe4a0f6028b199a946"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.1"
