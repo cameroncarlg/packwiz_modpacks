@@ -74,3 +74,13 @@ metafile = true
 file = "mods/rctapi.pw.toml"
 hash = "f02ba583f7e666dae9fd2a8aa329022af65f47ed264066b3df0367ed67eed52b"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d7c23c5b2f03df76caa7a4d66ca7961a5a3d05c538e1bda65bfd93fb80a07c5e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "97a62d0b00bdb7f6a2ba51ad05b2ed8c3ebe06098ce893b3d638d59498addf7f"
+metafile = true
