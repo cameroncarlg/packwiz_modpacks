@@ -1,0 +1,15 @@
+name = "Roguelike"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d7120dafd5d2790b7060f637239fb2efa4950829bcdd7d3a49ce33c923fb81a0"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21.1"]
