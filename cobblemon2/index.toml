@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "04a2bdadd4caf930590ebef79209aa58c4bea202ea6237dc545869379a0494a1"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5b9618476350398ad0d25b5bf3a41521dd015baa22e4bfe8db685625a3a2c697"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "ff77d62e8c64ddcd2031732aef61311e1501c597e358f9ccff0a5199bb2cd0d5"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "a6c5d25e147300a645fe10f3c9520f37868569461c58a2cf4130421c2e85cb04"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "a360ad89bc5989dc3ae694b449cd1786a9812135422d3d73f2d5637299e9a3fd"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "ad5d44d9de986008e05f430a5978a40e51cb2fb7fb4acd7ceba2702b1218512c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6578f3c644dc64eb56274c332cc96712c6c9c9221b100decad7de96218b5080f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e558e8f6e421b521e28788c4ad22bc880d3ba76fa74e4def0292669c777c2db8"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "1e7de48e0a107719824dc6169fce2fb645ecd52946911f9cae4c77e1881092ff"
+metafile = true
+
+[[files]]
+file = "mods/rctapi.pw.toml"
+hash = "f02ba583f7e666dae9fd2a8aa329022af65f47ed264066b3df0367ed67eed52b"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "c40498e73b9866f2b8231678742b4078623debedb03f19b19326a64d7683d69b"
+metafile = true
