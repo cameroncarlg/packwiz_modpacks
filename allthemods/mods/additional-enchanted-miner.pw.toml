@@ -1,0 +1,13 @@
+name = "Additional Enchanted Miner"
+filename = "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.147.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8632ca344c2278a0a41c0f56aa6a946ebb43b2f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7694431
+project-id = 282837

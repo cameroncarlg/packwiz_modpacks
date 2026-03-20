@@ -1,0 +1,13 @@
+name = "Bibliocraft Legacy"
+filename = "bibliocraft-1.21.1-1.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4df707b6fb9b9ce345155b72c1d445a4546af37"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7580743
+project-id = 1122260
