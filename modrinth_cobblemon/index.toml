@@ -32,12 +32,17 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "1f28723cc3fcefd689d9af561565276583da3001ed0692fdb09ef5e016515d9f"
+hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6578f3c644dc64eb56274c332cc96712c6c9c9221b100decad7de96218b5080f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
@@ -56,11 +61,11 @@ hash = "77f3f22dd6b04c981dfe20fcdc4ed9ad2c5abb3b284143a1c64953aac3d21eb5"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "43b971a117e045f01cacd23ae91e73a5dfe348c34ece524359d79c66ecb055a0"
+file = "mods/rctapi.pw.toml"
+hash = "f02ba583f7e666dae9fd2a8aa329022af65f47ed264066b3df0367ed67eed52b"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "a545a4faad6d586583312dd43b29bab18244cb5de5f4d3e4448ca5c612ca7c4b"
+file = "mods/rctmod.pw.toml"
+hash = "c40498e73b9866f2b8231678742b4078623debedb03f19b19326a64d7683d69b"
 metafile = true
