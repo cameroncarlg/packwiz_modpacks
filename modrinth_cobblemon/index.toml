@@ -2,85 +2,65 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
+hash = "04a2bdadd4caf930590ebef79209aa58c4bea202ea6237dc545869379a0494a1"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+hash = "5b9618476350398ad0d25b5bf3a41521dd015baa22e4bfe8db685625a3a2c697"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "0b1740cc342248a7bf917a147d6b8e852a9253dfbcfe180f7cf50f97bf6d646e"
+hash = "ff77d62e8c64ddcd2031732aef61311e1501c597e358f9ccff0a5199bb2cd0d5"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "25fec29bb661c76e979cfe6733397ee1e36c154ab7ab1601ef08e1e99c92200c"
+hash = "a6c5d25e147300a645fe10f3c9520f37868569461c58a2cf4130421c2e85cb04"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
+hash = "a360ad89bc5989dc3ae694b449cd1786a9812135422d3d73f2d5637299e9a3fd"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "9e73dc663b6e07c0746087c337890b9c0354d05e2d15d51be154a9dac331566c"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-wiki-gui.pw.toml"
-hash = "17c6c2efb77c8f6a0e794ab1e9b4f4b2e31ed0d164fa09ec27e0556c2856802f"
+hash = "ad5d44d9de986008e05f430a5978a40e51cb2fb7fb4acd7ceba2702b1218512c"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "6413f6c6bef7abc5a808a54111f093a17daf4471e89d8535840f2a24966bdcd4"
-metafile = true
-
-[[files]]
-file = "mods/cobbreeding.pw.toml"
-hash = "e1f7a7bc656fb2af171219849b67b26d496881ac5a4405573a122ad344441261"
+hash = "1f28723cc3fcefd689d9af561565276583da3001ed0692fdb09ef5e016515d9f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
+hash = "6578f3c644dc64eb56274c332cc96712c6c9c9221b100decad7de96218b5080f"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+hash = "e558e8f6e421b521e28788c4ad22bc880d3ba76fa74e4def0292669c777c2db8"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+hash = "1e7de48e0a107719824dc6169fce2fb645ecd52946911f9cae4c77e1881092ff"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
-metafile = true
-
-[[files]]
-file = "mods/rad-gyms.pw.toml"
-hash = "a6b863419635cc2d6a42dea72cadea5e8f7b9e5a58ff02c6072bba7dc44ae117"
-metafile = true
-
-[[files]]
-file = "mods/rctapi.pw.toml"
-hash = "f02ba583f7e666dae9fd2a8aa329022af65f47ed264066b3df0367ed67eed52b"
+hash = "77f3f22dd6b04c981dfe20fcdc4ed9ad2c5abb3b284143a1c64953aac3d21eb5"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d7c23c5b2f03df76caa7a4d66ca7961a5a3d05c538e1bda65bfd93fb80a07c5e"
+hash = "43b971a117e045f01cacd23ae91e73a5dfe348c34ece524359d79c66ecb055a0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "97a62d0b00bdb7f6a2ba51ad05b2ed8c3ebe06098ce893b3d638d59498addf7f"
+hash = "a545a4faad6d586583312dd43b29bab18244cb5de5f4d3e4448ca5c612ca7c4b"
 metafile = true
